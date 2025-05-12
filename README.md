@@ -9,5 +9,3 @@ The Goal is to be able to use the D-Pad to move the box without the need to have
 
 I will add things as i find more things in the game, this is a hoby for me and i dont rush things and i have not played this gabe before i just thout it woud be fun to play around in the gamnes data with the box.
 
-
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
