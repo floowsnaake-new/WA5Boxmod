@@ -1,5 +1,10 @@
 # WA5Boxmod
-Wild Arms 5 Tinkering/small mods and things
+
+Youtube Video:
+https://www.youtube.com/watch?v=WbsMd_iQt3I
+
+
+Wild Arms 5 (USA ROM) Tinkering/small mods and things
 
 A program written in C and compiled for Linux, there are a few files but for the moving box one compile and run the "controller_write.c" file the other files are for debugging and also listning your devices you have connected to your computer if you want to add other then a Playstation 4 controller.
 
